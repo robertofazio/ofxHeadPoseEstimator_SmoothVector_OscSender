@@ -1,3 +1,13 @@
+I've just added a simple smooth in the vector Array ofVec3f pos e ofVec3f dir in order to delete the flickering of the Vector Red and then also added a OscSender for Unity3d
+
+oF Code witten by Kyle McDonald
+https://github.com/kylemcdonald/ofxHeadPoseEstimator
+
+The code was originally written by [Gabriele Fanelli](http://www.vision.ee.ethz.ch/~gfanelli/head_pose/head_forest.html) and integrated with openFrameworks by [David Sans Kirbis](http://therandomlab.blogspot.com/2011/12/kinect-real-time-head-tracking-with.html).
+
+
+
+----------------------
 # ofxHeadPoseEstimator is an addon for [openFrameworks](http://openframeworks.cc)
 
 Actually, it's not a proper addon yet. Right now it's just an example, but I wanted to get it out there for other people to play with even before it was wrapped into an addon.
