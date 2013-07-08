@@ -1,4 +1,5 @@
 I've just added a simple smooth in the vector Array ofVec3f pos e ofVec3f dir in order to delete the flickering of the Vector Red and then also added a OscSender for Unity3d
+Thanks to Mauro Ferrario.
 
 oF Code witten by Kyle McDonald
 https://github.com/kylemcdonald/ofxHeadPoseEstimator
